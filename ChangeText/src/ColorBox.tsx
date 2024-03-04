@@ -23,7 +23,7 @@ const ColorBox = () => {
       <div className="color-box" >
         <input
           type="text"
-          value={color.slice(1)}    //remove the # symbol
+          value={color/* .slice(1) */}    //remove the # symbol
           onChange={handleColorChange}
           placeholder="skriva hexadecimala värden börja med #"
         />
