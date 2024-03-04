@@ -27,7 +27,7 @@ input{
     width: 100%;
     padding: 10px;
     background-color: #fff;
-    border: 1px solid #000;
+    border: 1px solid #6857b1;
     margin: 2px 0;
     border-radius: 5px;
 }
@@ -35,7 +35,7 @@ input{
 button{
     width: 100%;
     padding: 10px;
-    background-color: #000;
+    background-color: #8657b1;
     color: #fff;
     border: none;
     border-radius: 5px;
